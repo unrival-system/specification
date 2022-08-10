@@ -1,0 +1,1 @@
+- A system has a [[goal]]
