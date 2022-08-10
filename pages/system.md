@@ -1,1 +1,1 @@
-- A system has a [[goal]]
+- Unrival is a system.  As such, it has a goal: /to maximize the achievability of goals/.  This it accomplishes by a /means/, which is its output:
