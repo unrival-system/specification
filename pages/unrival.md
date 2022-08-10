@@ -3,7 +3,8 @@
 - <img src="https://mermaid.ink/img/ICBncmFwaCBMUgogIEEoKGdvYWwpKS0tPkJbVW5yaXZhbF0KICBCIC0tPiBDKChtZWFucykpCg" />
   {{renderer :mermaid_vqdiah}}
 - Other systems may subscribe to the same goal.  For example, [[Agile]] and [[GTD]] may be viewed in this light.
-- {{renderer :mermaid_qwwxpfn}}
-	- ```mermaid 
-	  
-	  ```
+- ```mermaid 
+  graph TD
+  A[GTD] --> B(("maximize the\nachievability\nof goals"))
+  C[Agile] --> B
+  ```
