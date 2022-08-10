@@ -9,7 +9,7 @@
  ;; Preferred workflow style.
  ;; Value is either ":now" for NOW/LATER style,
  ;; or ":todo" for TODO/DOING style.
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; The app will ignore those directories or files.
  ;; E.g. "/archived" "/test.md"
@@ -214,6 +214,7 @@
 
  ;; Enable all your properties to have corresponding pages
  :property-pages/enabled? true
+ :preferred-format :org
 
  ;; Properties to exclude from having property pages
  ;; E.g. #{:duration :author}
