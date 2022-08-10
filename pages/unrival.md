@@ -2,4 +2,4 @@
   title:: unrival
 - <img src="https://mermaid.ink/img/ICBncmFwaCBMUgogIEEoKGdvYWwpKS0tPkJbVW5yaXZhbF0KICBCIC0tPiBDKChtZWFucykpCg" />
   {{renderer :mermaid_vqdiah}}
-- The means outputted by this [[version]] of Unrival is
+- Other systems may
