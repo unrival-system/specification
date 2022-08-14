@@ -1,2 +1,2 @@
 - Unrival is a [[system]] .  As such, it has a [[goal]]: **to maximize the achievability of goals**.  This it accomplishes by a means, which is its output.
-- Depending on the goal, a formal system may not necessarily maximize
+- A formal system may not necessarily maximize the achievability of all goals.  Getting a car's oil changed, for example, is straightforward enough.  When
