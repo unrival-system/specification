@@ -1,3 +1,3 @@
 - Unrival is a [[system]] .  As such, it has a [[goal]]: **to maximize the achievability of goals**.  This it accomplishes by a means, which is its output.
-- Other systems exist that share this goal (e.g. GTD, Agile, etc).  Unrival is different in that it does not require the incentives of those applying it to be aligned.
+- Other systems exist that share the same goal, such as GTD, Agile, etc.  Unrival is different in that it does not require the incentives of those applying it to be aligned.  You and your neighbors may be at odds when it comes to certain
 -
