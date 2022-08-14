@@ -1,2 +1,2 @@
-- Unrival is a [[system]] .  As such, it has a [[goal]]: **to maximize the achievability of goals**.  This it accomplishes by a means, which is the system's output:
--
+- Unrival is a [[system]] .  As such, it has a [[goal]]: **to maximize the achievability of goals**.  This it accomplishes by a means, which is its output.
+- It is different from other systems that share ths
