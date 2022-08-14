@@ -1,2 +1,2 @@
-* A collection of parts or individuals that exhibit some behavior that can be seen as [[goal]]-oriented.
+* A collection of parts or individuals exhibiting some behavior that can be seen as [[goal]]-oriented.
 * The whole system is more than the sum of its parts.
