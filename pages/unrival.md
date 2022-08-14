@@ -7,7 +7,7 @@
 	    A((goal))-->B[Unrival]
 	    B --> C((means))
 	  ```
-- Other systems may subscribe to the same goal.  For example, [[Agile]] and [[GTD]] may be viewed in this light.  Unrival differentiate itself from these in that
+- Goals can be subscribed to by .  For example, [[Agile]] and [[GTD]] may be viewed in this light.  Unrival is different than these in that its
 - <img src="https://mermaid.ink/img/ICBncmFwaCBURApBW0dURF0gLS0-IEIoKCJtYXhpbWl6ZSB0aGU8YnI-YWNoaWV2YWJpbGl0eTxicj5vZiBnb2FscyIpKQpDW0FnaWxlXSAtLT4gQgo" />
   {{renderer :mermaid_zscbfbv}}
 	- ```mermaid 
