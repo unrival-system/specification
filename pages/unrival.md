@@ -1,5 +1,4 @@
-- Unrival is a [[system]] .  As such, it has a [[goal]]: to maximize the achievability of goals.  This it accomplishes by a means, which is its output:
-  title:: unrival
+- Unrival is a [[system]] .  As such, it has a [[goal]]: **to maximize the achievability of goals**.  This it accomplishes by a means, which is the system's output:
 - <img src="https://mermaid.ink/img/ICBncmFwaCBMUgogIEEoKGdvYWwpKS0tPkJbVW5yaXZhbF0KICBCIC0tPiBDKChtZWFucykpCg" />
   {{renderer :mermaid_kzqbrcg}}
 	- ```mermaid 
@@ -16,4 +15,4 @@
 	  A[GTD] --> B(("maximize the<br>achievability<br>of goals"))
 	  C[Agile] --> B
 	  ```
-- Unrival can be applied in groups with conflicting incentives.  For example, it
+- Unrival can be applied in groups with conflicting incentives.
