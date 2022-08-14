@@ -6,7 +6,7 @@
 	    A((goal))-->B[Unrival]
 	    B --> C((means))
 	  ```
-- Goals can be subscribed to by more than one system.  For example, [[Agile]] and [[GTD]] may be seen as means toward the same end.  Those who apply such systems, be they individuals or small groups, are assumed to be pursuing the same goal with aligned incentives.
+- Goals can be subscribed to by more than one system.  For example, [[Agile]] and [[GTD]] may be seen as means toward the same end.
 - <img src="https://mermaid.ink/img/ICBncmFwaCBURApBW0dURF0gLS0-IEIoKCJtYXhpbWl6ZSB0aGU8YnI-YWNoaWV2YWJpbGl0eTxicj5vZiBnb2FscyIpKQpDW0FnaWxlXSAtLT4gQgo" />
   {{renderer :mermaid_zscbfbv}}
 - {{renderer :mermaid_hycnhfv}}
@@ -15,4 +15,7 @@
 	  A[GTD] --> B(("maximize the<br>achievability<br>of goals"))
 	  C[Agile] --> B
 	  ```
+- Those who apply such systems, be they individuals or small groups, are assumed to be pursuing the same goal with aligned incentives.
+-
 - Unrival can be applied in groups with conflicting incentives.
+-
