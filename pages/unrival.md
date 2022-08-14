@@ -1,4 +1,4 @@
 - Unrival is a [[system]] .  As such, it has a [[goal]]: **to maximize the achievability of goals**.  This it accomplishes by a means, which is its output.
 - A formal system may not necessarily maximize the achievability of all goals.  Getting a car's oil changed, for example, is a straightforward matter.
-- Unrival's domain of application is goals that are made more achievable by effective cooperation - especially those
+- Unrival's domain of application is goals that are made more achievable by effective cooperation - especially whenever the agents involved may have conflicting agendas but will benefit maximally when their shared goal is accomplished.  The Prisoner's Dilemma
 -
